@@ -34,8 +34,8 @@ amma altı ay sonra geri qayıdanda niyə məhz belə yazıldığını anlamaq �
 Ona görə də mən indi “ağıllı görünən” koddansa “açıq və sadə” koda üstünlük
 verirəm. Parametrlər, dəyişənlərin adları, funksiyalar — ümumən hər şey —
 oxuyanın rahat başa düşəcəyi şəkildə olmalıdır. Çünki praktikada insanlar ən son
-qərarı verir[^anlışan kodlar isə nəin ki insanlara, həm də [[LLM]]-lərə kömək
-edir].
+qərarı verir[^anlışan kodlar isə nəin ki insanlara, həm də
+[[böyük dil modelləri]]nə kömək edir].
 
 ---
 

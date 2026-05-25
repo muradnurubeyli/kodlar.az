@@ -23,9 +23,9 @@ qədər yüklənmişdi ki, faydalı ötürmə sürəti mövcud tutumun çox kiç
 hissəsinə düşmüşdü. Xətlər dolu idi, amma demək olar ki, heç bir real məlumat
 qarşı tərəfə çatmırdı. Bu böhranın həlli [[TCP]]-nin ən vacib xüsusiyyətlərindən
 birinə çevrildi: [[tıxanma nəzarəti]]. Bu gün hər bir TCP bağlantısı (istər
-kiçik bir [[API]] sorğusu, istərsə də çox-giqabaytlıq fayl yükləməsi) məlumatı
-hansı sürətlə göndərməli olduğunu müəyyən etmək üçün bu [[alqoritm]]lərə
-güvənir.
+kiçik bir API sorğusu, yəni [[tətbiqi proqramlaşdırma interfeysi]] çağırışı,
+istərsə də çox-giqabaytlıq fayl yükləməsi) məlumatı hansı sürətlə göndərməli
+olduğunu müəyyən etmək üçün bu [[alqoritm]]lərə güvənir.
 
 Hazırda Imperial College-də şəbəkə sistemləri üzrə tezis üzərində işləyərkən,
 son iki il ərzində bu mövzunu yaxından öyrənmişəm. Bu bloq yazısı isə mövzu ilə

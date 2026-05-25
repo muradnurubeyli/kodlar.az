@@ -20,8 +20,8 @@ sirli, lakin inanılmaz dərəcədə güclü kainat vəd edir.
 
 ## Haskell-in Mahiyyəti: Funksional Yanaşma
 
-Haskell təmiz **[[funksional proqramlaşdırma]]** ([[FP]]) dilidir. Yəni burada
-biz kompüterə addım-addım nə edəcəyini ([[imperativ proqramlaşdırma]]) demirik,
+Haskell təmiz **[[funksional proqramlaşdırma]]** (FP) dilidir. Yəni burada biz
+kompüterə addım-addım nə edəcəyini ([[imperativ proqramlaşdırma]]) demirik,
 sadəcə problemin özünü ([[deklarativ proqramlaşdırma]]) təsvir edirik. FP dili
 proqramçını məlumatlara bütöv bir obyekt kimi baxmağa sövq edir, onu hissə-hissə
 emal etməyə yox.
@@ -109,8 +109,9 @@ Burada `.` simvolu [[funksiya kompozisiyası]]nı bildirir: məlumat filtrdən
 keçir, map olunur və sonda foldr ilə toplanır. Bu kompozisiya məktəb
 riyaziyyatında öyrəndiyimiz `f(g(h(x)))` kimi bir ifadəyə bənzəyir.
 
-2. ADT ilə Strukturlaşdırılmış Yanaşma: Bu üslub [[OOP]]-dəki siniflərə
-   bənzəyir, lakin daha zəngindir.
+2. ADT ilə Strukturlaşdırılmış Yanaşma: Bu üslub
+   [[obyekt-yönümlü proqramlaşdırma]]dakı siniflərə bənzəyir, lakin daha
+   zəngindir.
 
 ```haskell
 data Shape = Circle Float | Rect Float Float deriving (Show)

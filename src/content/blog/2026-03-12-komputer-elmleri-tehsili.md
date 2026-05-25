@@ -109,13 +109,13 @@ Universitetə getmək ilə universitetdə oxumaq arasında çox böyük fərq va
 Sadəcə bir vəsiqədən (diplomdan) əlavə, yaxşı bir universitet təkbaşına əldə
 edilməsi həqiqətən də çətin olan bir neçə imkanı sizə qazandırır.
 
-Birincisi, **pedaqoji məqsədlə dizayn edilmiş [[tədris proqramı]]**. Kimlərsə
-nəyi birinci öyrətmək, nəyin nəyin üzərində qurulduğu və
-[[əməliyyat sistemləri]]nin niyə [[məlumat strukturları]]ndan sonra gəldiyi
-barədə dərindən düşünüb. Bu ardıcıllığı təbii bir şey kimi qəbul etmək asandır,
-amma onu təkbaşına, sıfırdan qurmaq çox çətindir.
+Birincisi, **pedaqoji məqsədlə dizayn edilmiş tədris proqramı**. Kimlərsə nəyi
+birinci öyrətmək, nəyin nəyin üzərində qurulduğu və [[əməliyyat sistemi]]
+kursunun niyə [[verilənlər strukturu]] kursundan sonra gəldiyi barədə dərindən
+düşünüb. Bu ardıcıllığı təbii bir şey kimi qəbul etmək asandır, amma onu
+təkbaşına, sıfırdan qurmaq çox çətindir.
 
-İkincisi, **rəy mexanizmləri**. İmtahanlar, layihələr, [[müəllim köməkçiləri]]
+İkincisi, **rəy mexanizmləri**. İmtahanlar, layihələr, müəllim köməkçiləri
 tərəfindən kodların yoxlanılması, müəllimlərin qəbul saatları. _Əgər onlardan
 istifadə etsəniz_, bunlar inanılmaz dərəcədə dəyərlidir. Əks halda, onlar sadəcə
 olaraq gözə görünməyən - sizinlə imtahan qiymətləriniz arasında duran bürokratik
@@ -133,7 +133,7 @@ məntiqini mənə izah edə bilərsinizmi?"].
 
 Dördüncüsü, **öz başınıza heç vaxt seçməyəcəyiniz alt sahələrlə tanışlıq**.
 Təkbaşına qalsanız, böyük ehtimalla [[formal dillər]] və ya
-[[hesablanma nəzəriyyəsi]]ni öyrənməzdiniz. Lakin bu fənlər, problemlərə yanaşma
+[[hesablama nəzəriyyəsi]]ni öyrənməzdiniz. Lakin bu fənlər, problemlərə yanaşma
 tərzinizi elə formalaşdırır ki, bunu yalnız həmin fənləri keçdikdən sonra anlaya
 bilərsiniz.
 
@@ -192,9 +192,9 @@ Kompüter elmlərinin akademik bir sahə kimi üzərində ümumi razılığa gə
 təməl biliklər bazası var.
 [ACM/IEEE tədris proqramı təlimatları](https://www.acm.org/education/curricula-recommendations)
 mövcuddur və bütün dünyada əksər proqramlar istər açıq, istərsə də dolayısı
-yolla onlara istinad edir. Əsaslar - [[məlumat strukturları]], [[alqoritmlər]],
-[[əməliyyat sistemləri]], [[kompüter arxitekturası]], şəbəkələr,
-[[məlumat bazaları]], [[hesablama nəzəriyyəsi]],
+yolla onlara istinad edir. Əsaslar - məlumat strukturları, alqoritmlər,
+əməliyyat sistemləri, [[kompüter arxitekturası]], şəbəkələr,
+[[verilənlər bazası]], hesablama nəzəriyyəsi,
 [[proqram təminatı mühəndisliyi]] - fizika və riyaziyyatın təməlləri qədər
 sabitdir. Onlar onilliklərdir ki, çox dəyişməyiblər, çünki buna ehtiyac yoxdur.
 
@@ -229,7 +229,7 @@ olaraq yüksəlir.
 
 **Seçmə fənlərin müxtəlifliyi.** Böyük bir kafedra kiçik bir kafedranın sadəcə
 təklif edə bilməyəcəyi ixtisaslaşmış fənləri - [[paylanmış sistemlər]],
-[[kriptoqrafiya]], [[kompilyatorlar]], [[proqramlaşdırma dilləri nəzəriyyəsi]],
+[[kriptoqrafiya]], [[kompilyator]], [[proqramlaşdırma dilləri nəzəriyyəsi]],
 [[robototexnika]] kimi fənləri tədris etmək imkanına malikdir.
 
 **Tədrisin keyfiyyəti.** Bu, universitetin tədqiqat nüfuzundan asılı olmadan
@@ -280,12 +280,12 @@ Toyota-nın sürətlər qutusunu sıfırdan söküb-yığa bilməzlər, lakin bu
 hansı alt sistemin nasaz ola biləcəyini məntiqlə təxmin edə bilərlər.
 
 Bir kompüter elmləri məzunu da kompüter haqqında eyni cür anlayışa sahib
-olmalıdır. [[Tranzistor]]lardan və [[məntiq qapıları]]ndan tutmuş arxitektura,
-əməliyyat sistemləri, şəbəkələr, [[kompilyator]]lar və tətbiqlərə qədər -
-maşının əslində nə etdiyini ən azından kobud şəkildə izləyə bilməlisiniz.
-İşəgötürəninizin spesifik [[kod bazası]]nı əzbər bilməyəcəksiniz, lakin orada öz
-istiqamətinizi asanlıqla tapa bilməlisiniz. Sistemə baxıb onun davranışını
-məntiqi olaraq anlaya bilməlisiniz.
+olmalıdır. [[Tranzistor]]lardan və [[məntiq qapısı]] səviyyəsindən tutmuş
+arxitektura, əməliyyat sistemləri, şəbəkələr, kompilyatorlar və tətbiqlərə
+qədər - maşının əslində nə etdiyini ən azından kobud şəkildə izləyə
+bilməlisiniz. İşəgötürəninizin spesifik [[kod bazası]]nı əzbər bilməyəcəksiniz,
+lakin orada öz istiqamətinizi asanlıqla tapa bilməlisiniz. Sistemə baxıb onun
+davranışını məntiqi olaraq anlaya bilməlisiniz.
 
 Mühərrikin necə işlədiyini anlamayan bir avtomobil mühəndisi necə böyük bir
 riskdirsə, brauzerə bir URL daxil etdiyiniz zaman nə baş verdiyini heç bir
@@ -324,10 +324,10 @@ təsdiqləyir? Təhlükəsizlik elə cihazı yandırdığınız andan başlayır
 
 ---
 
-> _[[Əməliyyat sistemi]]nin giriş ekranı görünür._
+> _Əməliyyat sisteminin giriş ekranı görünür._
 
 Nüvə yaddaşın idarə edilməsini başlatdı, [[virtual yaddaş]]ı qurdu,
-[[planlaşdırıcı]]nı işə saldı, [[fayl sistemləri]]ni quraşdırdı,
+[[planlaşdırıcı]]nı işə saldı, [[fayl sistemi]]ni quraşdırdı,
 [init/systemd](https://systemd.io/)-ni başlatdı. Giriş meneceri özü də bir
 istifadəçi fəzası prosesidir, sizin kimliyinizi təsdiqləyir.
 
@@ -403,7 +403,7 @@ emal edir, bəlkə bir tətbiq serverinə müraciət edir, məlumat bazasını s
 və bir cavab toplayır. Geri HTML, CSS, JavaScript və şəkillər qayıdır. Siz
 [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)-ni protokol
 səviyyəsində - başlıqlar, metodlar, status kodları olaraq anlamalısınız.
-[[Server tərəfi]]ndə isə: o, sizin məlumatınızı necə əldə edir?
+[[Backend]]də isə: o, sizin məlumatınızı necə əldə edir?
 [SQL sorğuları](https://en.wikipedia.org/wiki/SQL),
 [indeksləmə](https://en.wikipedia.org/wiki/Database_index), sorğunun
 optimallaşdırılması. Və ən əsası, server daxil edilən bütün məlumatlara
@@ -439,8 +439,8 @@ Hər bir təbəqə digərindən asılıdır. Yüklənmə prosesi aparat təminat
 təminatını, əməliyyat sistemini və təhlükəsizliyi əhatə edir. Bir veb-səhifənin
 yüklənməsi isə şəbəkələri, məlumat bazalarını, kompilyatorları, məlumat
 strukturlarını və təhlükəsizliyi özündə birləşdirir. Təməl səviyyədə "sadəcə,
-[[frontend]]" və ya "sadəcə, [[backend]]" deyə bir şey yoxdur. Bunlar maşının
-deyil, insanların yaratdığı təşkilati sərhədlərdir.
+[[frontend]]" və ya "sadəcə, backend" deyə bir şey yoxdur. Bunlar maşının deyil,
+insanların yaratdığı təşkilati sərhədlərdir.
 
 ### Bu ssenari nələri aşkara çıxarır
 
@@ -478,8 +478,8 @@ keçirin. Neçə addımı əslində izah edə bilərsiniz? Mən "DNS-i eşitmiş
 nəzərdə tutmuram, yəni o həll prosesini, keşləmə təbəqələrini, təhlükəsizlik
 məsələlərini və işlər tərs gedəndə nələrin xarab olduğunu dəqiq izah etməyi
 deyirəm. "TCP-nin nə olduğunu bilirəm" yox, üçlü əl sıxışmasını,
-[[sıxlıq nəzarəti]]ni və bunun tətbiqin davranışı üçün niyə önəmli olduğunu izah
-etməyi nəzərdə tuturam.
+[[tıxanma nəzarəti]]ni və bunun tətbiqin davranışı üçün niyə önəmli olduğunu
+izah etməyi nəzərdə tuturam.
 
 Dunning-Kruger sindromunun dərmanı spesifiklikdir. Kimsə sizə dəqiq bir sual
 verənə qədər, dumanlı bir anlayış insana həqiqi bilik kimi gəlir. Bu, irəlidə
@@ -514,7 +514,7 @@ Heç kim dörd il ərzində bütün bunlarda ustalaşa bilməz. Əsas məqsəd, 
 Gəlin sizi bəzi əbəs narahatlıqlardan xilas edim.
 
 Bir kompüter elmləri məzunundan hər hansı bir spesifik proqramlaşdırma dilində,
-[[freymvork]]da və ya alətdə ustalaşması gözlənilmir.
+[[freymvörk]]də və ya alətdə ustalaşması gözlənilmir.
 
 Məzun olduğunuz gün sizdən istehsalat səviyyəsində mühəndislik bacarıqları
 gözlənilmir - onlar iş təcrübəsi ilə yaranır.
@@ -588,19 +588,17 @@ nəzəriyyəsi. Bunlar tələbələrin əksər hallarda birtəhər yola verib ke
 bunlardır.
 
 "Yararsız" və ya "həddindən artıq nəzəri" görünən fənlər adətən ən uzunömürlü
-olanlardır. [[React]] dəyişəcək, lakin [[virtual yaddaş]] konsepsiyası
-dəyişməyəcək. Hər hansı bir veb freymvorku üç il sonra başqası ilə əvəz
-olunacaq, ancaq [[təhlil nəzəriyyəsi]] otuz il sonra belə yenə eyni nəzəriyyə
-olaraq qalacaq.
+olanlardır. [[React]] dəyişəcək, lakin virtual yaddaş konsepsiyası dəyişməyəcək.
+Hər hansı bir veb freymvorku üç il sonra başqası ilə əvəz olunacaq, ancaq
+[[təhlil nəzəriyyəsi]] otuz il sonra belə yenə eyni nəzəriyyə olaraq qalacaq.
 
 Əgər bir fənn sizə çətin və mənasız gəlirsə, bu çox vaxt bilik sərhədinizin
 sonuna çatdığınıza işarədir. Öyrənmə prosesi də məhz elə o sərhəddə baş verir.
 
 ### Tapşırıqları özünüz həll edin
 
-Öyrənmək əziyyətdə gizlənir. Həlləri köçürmək və ya onları
-[[böyük dil modelləri]]nə yazdırtmaq biliyin beyninizdə formalaşdığı o vacib
-mərhələni ötürüb keçməkdir.
+Öyrənmək əziyyətdə gizlənir. Həlləri köçürmək və ya onları böyük dil modellərinə
+yazdırtmaq biliyin beyninizdə formalaşdığı o vacib mərhələni ötürüb keçməkdir.
 
 Saatlarla bir yerdə ilişib qalmaq və nəhayət həlli tapmaq boşa getmiş vaxt
 deyil. Bu, dərin bir anlayışın inşa edildiyi bir prosesdir. O çarəsizlik
@@ -624,7 +622,7 @@ Dərs layihələri məhduddur, onların əhatə dairəsi, tələbləri və addı
 verməyə, qeyri-müəyyənliklərlə başa çıxmağa və kurs tapşırıqlarının sizi
 diqqətlə qoruduğu problemlərlə üzləşməyə məcbur edir.
 
-Bunun üçün böyük bir startap və ya [[açıq mənbəli]] layihə yaratmağa ehtiyac
+Bunun üçün böyük bir startap və ya [[açıq mənbə]] layihəsi yaratmağa ehtiyac
 yoxdur.
 [Sadə bir əmrlər sətri](https://brennan.io/2015/01/16/write-a-shell-in-c/),
 kiçik bir kompilyator, sadə bir oyun,
@@ -706,7 +704,7 @@ verəcək kimi görünür. Ən azından başlanğıcda bu həvəsin qarşısın�
 geniş tədris proqramını qavrayın. İxtisaslaşma təbii olaraq özü gələcək.
 
 Sizin 19 yaşınızdakı maraqlarınız 25 yaşınızdakı maraqlarınızdan çox fərqli ola
-bilər. Geniş bir təməl qapıları həmişə açıq saxlayır. "Mən [[ML]] ilə məşğul
+bilər. Geniş bir təməl qapıları həmişə açıq saxlayır. "Mən ML ilə məşğul
 olacağam" deyə əməliyyat sistemlərini qulaqardına vuran bir tələbə, üç il sonra
 ML sistemlərinin geniş miqyasda həqiqətən işləməsi üçün
 [[yaddaş iyerarxiyası]]nı və paralelizmi anlamağın mütləq olduğunu kəşf edə
@@ -714,8 +712,8 @@ bilər.
 
 ### Öz əhatənizi tapın, ancaq təkbaşına işləməyi də öyrənin
 
-Dərs oxuma qrupları, kompüter elmləri klubları, hakatonlar, [[açıq mənbə]]li
-layihə icmaları öyrənmənin sosial bir proses olduğunu göstərir. Bir fincan qəhvə
+Dərs oxuma qrupları, kompüter elmləri klubları, hakatonlar, açıq mənbəli layihə
+icmaları öyrənmənin sosial bir proses olduğunu göstərir. Bir fincan qəhvə
 arxasında sizə hansısa anlayışı izah edən bir şəxs, bunu bir mühazirənin heç
 vaxt edə bilməyəcəyi qədər effektiv şəkildə öyrədə bilər.
 
@@ -752,7 +750,7 @@ Boşluqları yoxlamaq üçün daha bir neçə spesifik sual:
   seçimin niyə əhəmiyyətli olduğunu izah edə bilərsinizmi?
 - `gcc main.c` yazıb, yaranan icra faylını işə salanadək keçən müddətdə nələrin
   baş verdiyini anlayırsınızmı?
-- Yeni başlayan bir proqramçıya [[TCP]] və [[UDP]] arasındakı fərqi, o cümlədən
+- Yeni başlayan bir proqramçıya TCP və [[UDP]] arasındakı fərqi, o cümlədən
   hansını nə vaxt və niyə seçəcəyinizi izah edə bilərsinizmi?
 - Kontekst dəyişməsinin nə olduğunu və niyə onun resurs tələb edən baha bir
   proses olduğunu bilirsinizmi?
@@ -853,7 +851,7 @@ tədqiqat sahəsinə yönləndirmək.
 bakalavr təcrübəniz zəif olubsa və indi belə bir imkanınız varsa, bu barədə
 düşünməyə dəyər.
 
-## [[Böyük dil modelləri]] dövründə kompüter elmlərinin əsasları niyə daha az yox, daha çox əhəmiyyət daşıyır
+## Böyük dil modelləri dövründə kompüter elmlərinin əsasları niyə daha az yox, daha çox əhəmiyyət daşıyır
 
 Ortada belə bir fikir dolaşır ki, guya süni intellekt kompüter elmləri üzrə
 dərin biliklərin əhəmiyyətini azaldır. İddia olunur ki, sən sadəcə "[[prompt]]"
@@ -863,11 +861,10 @@ gələcək.
 
 ### Alət və anlama fərqi
 
-Böyük dil modelləri ([[LLM]]-lər) kod generasiya etmək üçün çox güclü
-alətlərdir. Lakin onlar kodu anlamağı əvəz etmir. Əlinə avtomatik mismar
-tapançası alan bir dülgər hələ də struktur mühəndisliyini anlamalıdır. Mismar
-tapançası sadəcə onun işini sürətləndirir; biliyi isə lazımsız bir şeyə
-çevirmir.
+Böyük dil modelləri (LLM-lər) kod generasiya etmək üçün çox güclü alətlərdir.
+Lakin onlar kodu anlamağı əvəz etmir. Əlinə avtomatik mismar tapançası alan bir
+dülgər hələ də struktur mühəndisliyini anlamalıdır. Mismar tapançası sadəcə onun
+işini sürətləndirir; biliyi isə lazımsız bir şeyə çevirmir.
 
 LLM-lərdən ən effektiv şəkildə istifadə edən şəxslər yaranan nəticəni
 qiymətləndirməyi, xətalarını tapmağı və onu düzgün yönləndirməyi bacaranlardır.
@@ -1028,13 +1025,13 @@ Nələri öyrətdiyinə görə qruplaşdırılmış bəzi təkliflər:
 
 - **Sistemlər:**
   [əmrlər sətri (shell)](https://brennan.io/2015/01/16/write-a-shell-in-c/),
-  sadə bir [[yaddaş bölüşdürücüsü]], [[açar-dəyər deposu]], bəsit bir fayl
-  sistemi yazın.
+  sadə bir yaddaş bölüşdürücüsü, [[açar-dəyər deposu]], bəsit bir fayl sistemi
+  yazın.
 - **Şəbəkələr:** çat serveri, [xam soketlərdən](https://beej.us/guide/bgnet/)
   istifadə edərək HTTP server, DNS həlledicisi qurun.
 - **Proqramlaşdırma dilləri:** kiçik bir dil üçün
   [tərcüməçi və ya kompilyator](https://craftinginterpreters.com/) yazın.
-- **Məlumat bazaları:** [[B-ağacı]] indeksi, sadə bir sorğu mühərriki qurun.
+- **Məlumat bazaları:** B-ağacı indeksi, sadə bir sorğu mühərriki qurun.
 - **Təhlükəsizlik:** nəsə yaradın və sonra onu qırmağa çalışın. İnanın ki,
   sındırmağa çalışarkən daha çox şey öyrənəcəksiniz.
 - **Bütöv maşın:** [Nand2Tetris](https://www.nand2tetris.org/).
@@ -1048,8 +1045,8 @@ Nələri öyrətdiyinə görə qruplaşdırılmış bəzi təkliflər:
 Bunları mühəndisliyin klinik rotasiyaları kimi düşünün: nəzəriyyənin real
 sistemlərin xaotikliyi ilə qarşılaşdığı yer.
 
-Yaxşı təcrübə proqramları məktəbin öyrədə bilməyəcəyi şeyləri öyrədir: böyük
-[[kod bazası]]larında işləmək, [[kod yoxlama]] mədəniyyəti, canlı sistem
+Yaxşı təcrübə proqramları məktəbin öyrədə bilməyəcəyi şeyləri öyrədir: böyük kod
+bazasılarında işləmək, [[kodun nəzərdən keçirilməsi]] mədəniyyəti, canlı sistem
 xətaları, növbətçilik qrafikləri, komandalararası əməkdaşlıq, real son tarixlər
 altında prioritetlərin müəyyənləşdirilməsi və kodunuzun gerçək insanlar
 tərəfindən istifadə edildiyini görməyin verdiyi o xüsusi hiss.

@@ -25,7 +25,7 @@ nələrin baş verdiyini tam anlayır. İndi o qədər fərqli işlər görən
 insan hansı hissələrin əsas olduğunu müəyyən etməkdə çətinlik çəkir. 1983-cü
 ildə isə ev kompüterləri o qədər də mürəkkəb deyildi və çalışqan bir insan
 müəyyən bir kompüterin başdan-ayağa necə işlədiyini öyrənə bilərdi. Həmin şəxs,
-yəqin ki, bu gün müasir [[əməliyyat sistemləri]]nin aparat təminatının üzərinə
+yəqin ki, bu gün müasir [[əməliyyat sistemi]]lərinin aparat təminatının üzərinə
 yığdığı bütün bu [[abstraksiya]]lardan mənim qədər çaşqınlıq yaşamır. Elə hesab
 edirəm ki, bu abstraksiya təbəqələri tətbiq edildikcə onları bir-bir anlamaq
 asan idi; bu gün isə yeni proqramçılar onları yuxarıdan aşağıya və zamanda
@@ -317,10 +317,10 @@ görünə biləcəyi hər yer üçün bir qutu. Altıncı fəsildə, "Sprayt Qra
 sən ətrafda hərəkət etdirilə bilən, hətta böyüdülüb-kiçildilə bilən şəkillər
 yaratmağa imkan verən xüsusi təyinatlı qutular haqqında öyrənirsən. Yeddinci
 fəsildə, "Səs Yaratmaq"da, Commodore 64-ün musiqi ifa etməsi üçün yaza biləcəyin
-qutuları öyrənirsən. Məlum olur ki, Commodore 64-də sonradan [[API]]
-([[tətbiqi proqramlaşdırma interfeysi]]) adlandırılacağını öyrənəcəyin şeylərdən
-çox az var. Commodore 64-ü idarə etmək əsasən sxem tərəfindən xüsusi məna
-verilmiş yaddaş ünvanlarına yazmağı əhatə edir.
+qutuları öyrənirsən. Məlum olur ki, Commodore 64-də sonradan
+[[tətbiqi proqramlaşdırma interfeysi]] (API) adlandırılacağını öyrənəcəyin
+şeylərdən çox az var. Commodore 64-ü idarə etmək əsasən sxem tərəfindən xüsusi
+məna verilmiş yaddaş ünvanlarına yazmağı əhatə edir.
 
 Nəhayət, o xüsusi qutulara yazmaqla keçirdiyin o uzun illər səninlə qalır.
 Hətta, onilliklər sonra belə, geniş qrafik və ya səs API-si olan bir maşını

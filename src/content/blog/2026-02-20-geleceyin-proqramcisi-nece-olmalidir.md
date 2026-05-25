@@ -37,8 +37,8 @@ var ona baxaq.
 Əgər sizin hədəfiniz banklar, sığorta şirkətləri, dövlət sistemləri və ya
 minlərlə işçisi olan beynəlxalq şirkətlərdirsə, seçiminiz ya Java, ya da C#
 olmalıdır. Əslində digər dillər də ola bilər amma xüsusi olaraq bu iki dil ən
-effektiv [[OOP]] dillərindən olduğundan və ən əsası çox geniş topluluğa sahib
-olduqlarından xüsusilə bunları vurğulamaq istədim.
+effektiv [[obyekt-yönümlü proqramlaşdırma]] dillərindən olduğundan və ən əsası
+çox geniş topluluğa sahib olduqlarından xüsusilə bunları vurğulamaq istədim.
 
 **Java:** Onilliklərdir sənayenin "bel sütunu"dur. "Bir dəfə yaz, hər yerdə
 işlət" fəlsəfəsi ilə həm böyük [[backend]] sistemlərdə, həm də Android

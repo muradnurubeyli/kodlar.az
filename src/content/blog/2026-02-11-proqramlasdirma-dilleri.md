@@ -361,7 +361,7 @@ axmasını tələb edən nizam-intizamlı hərəkat başladı. Bu yeni məntiqi 
 standart tədris dili kimi istifadə olundu.
 
 Amma dünyanı əsl mənada dəyişən dil **C** (1972) oldu. Bell Labs-da yaradılan C
-dili, [[əməliyyat sistemləri]]ni (xüsusən Unix-i) yazmaq üçün dizayn edilmişdi.
+dili, [[əməliyyat sistemi]]lərini (xüsusən Unix-i) yazmaq üçün dizayn edilmişdi.
 C qeyri-adi bir balans tapmışdı: o, mühəndisə yüksək səviyyəli dilin
 aydınlığını, eyni zamanda Assembli dilinin performansı və cihaz üzərindəki
 qeyri-məhdud nəzarətini verirdi. C yaddaş xətalarını bağışlamayan, olduqca
